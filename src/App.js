@@ -23,7 +23,7 @@ function App() {
       <div className="App-header">
         <h1>NAVER FINANCIAL</h1>
         <div style={{paddingBottom:"20px"}}>
-          <div style={{color: "white"}}>지원 PORTFOLIO</div>
+          <div style={{color: "white"}}>지원 PORTFOLIO - 남세현/B635127</div>
         </div>
         <div style={{display:"flex", flexDirection:"row"}}>
           <div style={{flex:1, paddingRight:"30px"}}>
