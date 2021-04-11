@@ -48,7 +48,7 @@ function App() {
             </div>           
             <div>
             <div className="subtitle">학력</div>
-            <div className="div"> 홍익대학교 컴퓨터공학과 4학년</div>
+            <div className="div"> 홍익대학교 컴퓨터공학과 4학년 B635127</div>
             </div>
             <div>
               <div className="subtitle">성적</div>
@@ -56,7 +56,7 @@ function App() {
             </div>
             <div>
               <div className="subtitle">어학</div>
-              <div className="div"> <b>OPIc</b> IM2 &nbsp;&nbsp;&nbsp; <b>JLPT</b> 3급</div>
+              <div className="div"> <b>OPIc</b> IH &nbsp;&nbsp;&nbsp; <b>JLPT</b> 3급</div>
             </div>
             <div>
               <div className="subtitle">활동</div>
